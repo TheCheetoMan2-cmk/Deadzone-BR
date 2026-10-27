@@ -1,0 +1,12 @@
+{
+  "games": {
+    "deadzone": {
+      "version": 1,
+      "file": "updates/deadzone-v1.html",
+      "sha256": "85e39dd18fcdce1eeacba1fc61b64a203514f7877c4517cb01346f4f0fa5a13d",
+      "size": 445249,
+      "notes": "dd",
+      "date": "2026-10-27T17:07:41.133Z"
+    }
+  }
+}
