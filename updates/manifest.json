@@ -7,6 +7,14 @@
       "size": 674035,
       "notes": "fixed",
       "date": "2026-10-27T17:19:38.473Z"
+    },
+    "afterwatch": {
+      "version": 1,
+      "file": "updates/afterwatch-v1.html",
+      "sha256": "f0f1d08c6abcfa8fef3c3bbeeca8dbfd82d03ed0c69ec541ef8cd2b11ab6daa4",
+      "size": 445140,
+      "notes": "fixed",
+      "date": "2026-10-27T17:20:13.316Z"
     }
   }
 }
