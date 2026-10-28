@@ -9,12 +9,12 @@
       "date": "2026-10-27T17:19:38.473Z"
     },
     "afterwatch": {
-      "version": 4,
-      "file": "updates/afterwatch-v4.dz",
-      "sha256": "9402027130b5316598274d36db8f06ec9082454c9e21c2e890bd4b7480839e3f",
-      "size": 141580,
-      "notes": "index",
-      "date": "2026-10-27T19:59:54.944Z"
+      "version": 5,
+      "file": "updates/afterwatch-v5.dz",
+      "sha256": "96cfbd31de8e747cbcd38f0f8818df68c9cdbfa0370a019640b288f8e408c2b7",
+      "size": 142314,
+      "notes": "f",
+      "date": "2026-10-27T21:36:14.726Z"
     }
   }
 }
